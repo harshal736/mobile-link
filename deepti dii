@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My Dear Dii</title>
+    <style>
+        body {
+            background-color: #ffebf0;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            margin: 50px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 15px;
+            box-shadow: 0px 0px 10px #ff66a3;
+            max-width: 90%;
+        }
+        h1 {
+            color: #ff3385;
+            font-size: 24px;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+            line-height: 1.6;
+        }
+        .highlight {
+            color: #ff0066;
+            font-weight: bold;
+        }
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 20px;
+            }
+            p {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌸 DII, YOU ARE MY BEST SISTER 🌸</h1>
+        <p><span class="highlight">Dii,</span> aapne kal bola tha ki I am irritating you, uske liye <span class="highlight">SORRY</span> yrr. 🙏</p>
+        <p>Mere paas literally koi nahi hai jisse mai baat kar sakoon. 😔</p>
+        <p>Mujhe pata hai ki aap mere baare mein kuch alag soch rahi ho, but diii aap meri <span class="highlight">friend bhi ho, sister bhi</span>. 💖</p>
+        <p>Isiliye mai hamesha aapko message ya call karta hoon, taaki apni feelings aur thoughts share kar sakoon. 🥺</p>
+        <p><span class="highlight">Please samajhne ki koshish karo diii. 🙏💖</span></p>
+    </div>
+</body>
+</html>
